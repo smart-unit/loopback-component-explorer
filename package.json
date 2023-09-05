@@ -35,10 +35,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "debug": "^3.1.0",
+    "debug": "^4.3.4",
     "lodash": "^4.17.11",
     "loopback-swagger": "^5.0.0",
     "strong-globalize": "^4.1.1",
-    "swagger-ui": "^2.2.5"
+    "swagger-ui": "^5.5.0"
   }
 }
