@@ -39,6 +39,6 @@
     "lodash": "^4.17.11",
     "loopback-swagger": "https://github.com/smart-unit/loopback-swagger.git",
     "strong-globalize": "^6.0.6",
-    "swagger-ui": "^2.2.8"
+    "swagger-ui": "^3.0.0"
   }
 }
