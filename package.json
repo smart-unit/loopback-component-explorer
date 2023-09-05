@@ -37,7 +37,7 @@
   "dependencies": {
     "debug": "^4.3.4",
     "lodash": "^4.17.11",
-    "loopback-swagger": "^5.0.0",
+    "loopback-swagger": "https://github.com/smart-unit/loopback-swagger.git",
     "strong-globalize": "^6.0.6",
     "swagger-ui": "^2.2.8"
   }
